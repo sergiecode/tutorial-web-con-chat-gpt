@@ -1,6 +1,6 @@
 # TUTORIAL DE COMO HACER UNA WEB SENCILLA CON CHATGPT
 
-## Copiar esta estructura y reemplazar lo que corresponda:
+## Reemplazar lo que corresponda y copiar este texto en CHATGPT:
 
 1.  Hero Section
 2.  1.  Headline
